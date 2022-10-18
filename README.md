@@ -110,10 +110,7 @@ List of useful resources about Data, AI &amp; Cloud
 - [Portfolio Charts](https://portfoliocharts.com/)
 - [Reddit Personal Finance](https://www.reddit.com/r/personalfinance/wiki/index/)
 
-## Fun
-- [XKCD](https://xkcd.com/)
-- [Dilbert](https://dilbert.com/)
-- [SMBC](https://www.smbc-comics.com/)
+
 
 [contributors-shield]: https://img.shields.io/github/contributors/vladmakarovcy/Keeping-Learning.svg?style=flat-square
 [contributors-url]: https://github.com/vladmakarovcy/Keeping-Learning/graphs/contributors
